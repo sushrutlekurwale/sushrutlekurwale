@@ -30,11 +30,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+<!--![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=flat&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-6D4C41?style=flat&logo=android&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF7043?style=flat&logo=google&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF7043?style=flat&logo=google&logoColor=white)-->
 
 
 
