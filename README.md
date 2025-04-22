@@ -1,5 +1,5 @@
 <h2 align="center">Hi👋, I'm Sushrut</h2>
-<h3 align="center">Android Developer | Computer Science Student</h3>
+<h3 align="center">Android Developer | CLA Certified | Computer Science Student</h3>
 
 
 <p align="center">
