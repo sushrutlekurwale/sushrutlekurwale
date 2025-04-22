@@ -16,7 +16,8 @@
 
 
 
-- 🎓 Computer Science Student  
+- 🎓 Computer Science Student
+- 📜 Certified Linux Administrator  
 - 📱 Passionate about **Android Development** (Java | Kotlin | Jetpack Compose)
 - 🧪 Currently working as an Android Intern at Indian Internet Solutions
 - 💡 I love solving real-world problems, exploring new technologies and building cool stuff
